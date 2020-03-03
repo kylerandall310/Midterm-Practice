@@ -1,0 +1,6 @@
+C:\Users\randa\source\repos\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\randa\source\repos\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\randa\source\repos\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\randa\source\repos\Practice\Practice\obj\Debug\Practice.csprojAssemblyReference.cache
+C:\Users\randa\source\repos\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\randa\source\repos\Practice\Practice\obj\Debug\Practice.pdb
