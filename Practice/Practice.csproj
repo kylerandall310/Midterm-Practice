@@ -58,12 +58,15 @@
     <Compile Include="Decorator\Vehicle.cs" />
     <Compile Include="Decorator\VehicleDecorator.cs" />
     <Compile Include="Factory\AbstractPage.cs" />
+    <Compile Include="Factory\Document.cs" />
     <Compile Include="Factory\ConclusionPage.cs" />
+    <Compile Include="Factory\DocumentFactory.cs" />
     <Compile Include="Factory\IntroductionPage.cs" />
     <Compile Include="Factory\MainBodyPage.cs" />
     <Compile Include="Factory\Page.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Singleton\Singleton.cs" />
     <Compile Include="Strategy\ConsoleView.cs" />
     <Compile Include="Strategy\OutputInterface.cs" />
     <Compile Include="Strategy\Person.cs" />
@@ -72,8 +75,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Singleton\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
